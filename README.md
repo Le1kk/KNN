@@ -1,4 +1,4 @@
-# ML-DL
+# KNN
 Machine learning and deep learning notes, practice, formula derivation.
 
 > 如果遇到图片无法显示，可以下载后查看。
